@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1036933)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to Use the DocumentPreviewControl in a WPF MVVM Application to Preview a Report
+# Reporting for WPF - How to Use the DocumentPreviewControl in a WPF MVVM Application to Preview a Report
 
 This example demonstrates how to bind the [DocumentPreviewControl.DocumentSource](https://docs.devexpress.com/WPF/DevExpress.Xpf.DocumentViewer.DocumentViewerControl.DocumentSource property to the report source in the ViewModel. The project implements a command to show the report preview in a modal window. In this example the reports are stored in the SQLite database.
 
@@ -15,7 +15,7 @@ The ReportCatalogViewModel view model retrieves reports from a database and defi
 - `ShowPreviewInNewWindow`. Creates the **DocumentPreviewDialogViewModel** view model instance that contains the current report. Uses the [DialogService](https://docs.devexpress.com/WPF/17467/mvvm-framework/services/predefined-set/dialog-services/dialogservice) to show the modal window with the report preview.
 
 <!-- default file list -->
-## Files to Look At
+## Files to Review
 
 - [MainWindow.xaml](./CS/MainWindow.xaml) ([MainWindow.xaml](./VB/MainWindow.xaml))
 - [ReportCatalogViewModel.cs](./CS/Models/ReportCatalogViewModel.cs) ([ReportCatalogViewModel.vb](./VB/Models/ReportCatalogViewModel.vb))
