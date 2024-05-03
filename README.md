@@ -7,7 +7,7 @@
 
 This example demonstrates how to bind the [DocumentPreviewControl.DocumentSource](https://docs.devexpress.com/WPF/DevExpress.Xpf.DocumentViewer.DocumentViewerControl.DocumentSource property to the report source in the ViewModel. The project implements a command to show the report preview in a modal window. In this example the reports are stored in the SQLite database.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](Images/screenshot.png)
 
 The ReportCatalogViewModel view model retrieves reports from a database and defines the following commands:
 - `ShowReport`. Assigns a report instance to the view model property bound to the 
