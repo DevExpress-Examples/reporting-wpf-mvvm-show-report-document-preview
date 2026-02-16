@@ -34,7 +34,7 @@ The ReportCatalogViewModel view model retrieves reports from a database and defi
 
 - [How to load the saved XtraReport document (*.prnx) in DocumentPreview](https://github.com/DevExpress-Examples/Reporting_how-to-load-the-saved-xtrareport-document-prnx-in-documentpreview-e4713)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-mvvm-show-report-document-preview&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-mvvm-show-report-document-preview&~~~was_helpful=no)
 
